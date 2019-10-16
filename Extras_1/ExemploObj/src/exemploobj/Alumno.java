@@ -17,5 +17,10 @@ public class Alumno {
         return nota;
        
     }
+    public void amosar(){
+        System.out.println("nome"+ nome + "nota"+ nota);
+    }
+    
+    
     
 }
